@@ -30,7 +30,7 @@
 #import "NSString+HTML.h"
 #import "GTMNSString+HTML.h"
 
-@implementation NSString (HTML)
+@implementation NSString (MWFeedParser_HTML)
 
 #pragma mark - Instance Methods
 
